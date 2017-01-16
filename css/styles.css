@@ -1,0 +1,18 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.img {
+  max-width: 100px;
+  max-width: 100px;
+}
+
+.centered {
+  text-align: center;
+}
