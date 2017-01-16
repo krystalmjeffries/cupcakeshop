@@ -5,7 +5,9 @@
 
 .best {
   font-weight: bolder;
-  font-style: italic;
+  font-family: cursive;
+  color: purple;
+  font-size: 30px;
 }
 
 .img {
